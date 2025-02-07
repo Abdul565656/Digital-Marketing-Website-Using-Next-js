@@ -229,7 +229,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p>
-                    Enhance your video's reach and authority with genuine
+                    Enhance your video&apos;s reach and authority with genuine
                     subscribers.
                   </p>
                 </CardContent>
@@ -258,7 +258,7 @@ export default function Home() {
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <p>Photos, templates, graphics, and more for your projects.</p>
+                  <p>Photos, templates&apos; graphics&apos; and more for your projects.</p>
                 </CardContent>
                 <CardFooter className="flex justify-end">
                   <Button asChild variant="outline">
