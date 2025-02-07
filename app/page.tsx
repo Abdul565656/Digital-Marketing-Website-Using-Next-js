@@ -199,7 +199,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p>
-                    Increase your reach and visibility with real, engaged
+                    Increase your reach and visibility with real&lqos; engaged
                     followers.
                   </p>
                 </CardContent>

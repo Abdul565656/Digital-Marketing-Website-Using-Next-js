@@ -7,10 +7,10 @@ export default function Hero() {
       <div className="w-full md:w-1/2 space-y-6 max-w-lg pr-0 md:pr-12 mb-8 md:mb-0"> {/* Responsive padding and margin */}
         <h2 className="text-xl font-semibold text-blue-600">A Trusted Digital Agency</h2> {/* Subtitle */}
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 leading-tight"> {/* Larger font size on larger screens */}
-          We're A Creative Digital Agency.
+          We&apos;re A Creative Digital Agency.
         </h1>
         <p className="text-lg text-gray-600">
-          We specialize in crafting beautiful, user-centered digital experiences that drive results. Let us help you elevate your brand.
+          We specialize in crafting beautiful&lqos; user-centered digital experiences that drive results. Let us help you elevate your brand.
         </p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4"> {/* Stack buttons on small screens */}
           <button className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 transition duration-300 ease-in-out w-full sm:w-auto"> {/* Full width on small screens */}
