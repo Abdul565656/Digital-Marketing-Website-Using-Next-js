@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="w-full md:w-1/2 space-y-4 md:space-y-6 max-w-lg pr-0 md:pr-12 mb-8 md:mb-0 text-center md:text-left">
         <h2 className="text-md md:text-xl font-semibold text-blue-600">A Trusted Digital Agency</h2>
         <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-gray-800 leading-tight">
-          We're A Creative Digital Agency.
+          We&apos;re A Creative Digital Agency.
         </h1>
         <p className="text-base md:text-lg text-gray-600">
           We specialize in crafting beautiful user-centered digital experiences that drive results. Let us help you elevate your brand.
